@@ -38,7 +38,7 @@ def help():
           "     -d      URL Decode string\n"
           "     -e      URL Encode string\n\n"
           "urlrecode expects two command line parameters to be given. Either -d or -e to specify the required action, followed by the string which it should process\n\n"
-          "urlrecode version 1.0.7\n"
+          "urlrecode version 1.0.8\n"
           "Created by Martijn Katerbarg as a simple way to get urlencode / urldecode functionality in linux cli")
 
 
