@@ -1,6 +1,6 @@
 # urlrecode
 
-Usage Syntax: urlrecode <parameter> "<string to process>"
+Usage Syntax: urlrecode [parameter] "[string to process]"
           
 Parameters:   
     -d      URL Decode string.  
