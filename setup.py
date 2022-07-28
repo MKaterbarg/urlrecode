@@ -8,11 +8,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='urlrecode',
-    version='1.0.8',
+    version='1.0.9',
     url='https://github.com/MKaterbarg/urlrecode',
     license='MIT',
     author='Martijn Katerbarg',
-    packages=['urlrecode',],
+    packages=['urlrecode'],
     long_description=long_description,
     long_description_content_type="text/markdown",
     author_email='martijnkaterbarg@gmail.com',
